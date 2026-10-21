@@ -220,7 +220,7 @@ export default function App() {
             </h2>
             <figure className="about-photo" data-parallax="0.035">
               <img
-                src="/dinesh-outdoors.jpeg"
+                src={`${import.meta.env.BASE_URL}/\dinesh-outdoors.jpeg`}
                 alt="Dinesh outdoors with fields and mountains in the background"
                 loading="lazy"
               />
