@@ -1,7 +1,7 @@
 // Replace these values when your other portfolio versions and portrait are ready.
 export const profile = {
   portrait: `${import.meta.env.BASE_URL}dinesh-portrait.png`,
-  nextPortfolio: "",
+  nextPortfolio: "https://dinesh-fullstack010.github.io/my-next.js-portfolio/",
   angularPortfolio: "",
   email: "dineshsenthil02@gmail.com",
 };
